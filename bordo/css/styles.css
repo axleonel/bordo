@@ -1,0 +1,41 @@
+.logo {
+	
+	text-align: center;
+	z-index: 9999;
+
+}
+
+h1
+{
+	padding:10px 0px 10px 0px;
+	margin:0px;
+
+}
+
+.menu
+{
+	background: white;
+	border: transparent;
+	
+}
+
+.lista
+{
+
+	z-index: 9999999;
+	position: absolute;
+	
+}
+
+.gift
+{
+	
+	position: relative;
+	
+	
+}
+
+.navbar
+{
+	margin-bottom: 0px;
+}
